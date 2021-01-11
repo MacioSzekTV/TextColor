@@ -10,3 +10,17 @@ Available colors: </br>
 - <font color="magenta">MAGENTA</font>
 - <font color="teal">TEAL</font>
 - <font color="white">WHITE</font>
+
+# Usage
+
+```go
+package main
+
+import (
+	"github.com/MacioSzekTV/TextColor"
+)
+
+func main() {
+	TextColor.GREEN("YOUR TEXT")
+}
+```
