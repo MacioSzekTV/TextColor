@@ -1,4 +1,4 @@
-# TextColor
+# TextColor <a href="https://github.com/MacioSzekTV/TextColor"><img src="https://img.shields.io/static/v1?color=5865F2&logo=go&label=TextColor&style=flat-square&message=1.0.0"/></a>
 A library named TextColor! It can color your text!
 
 Available colors: </br>
