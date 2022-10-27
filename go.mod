@@ -1,3 +1,3 @@
-module github.com/MacioSzekTV/TextColor
+module github.com/macioszektv/TextColor
 
 go 1.15
